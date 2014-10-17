@@ -46,21 +46,21 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\TaikrCSharpKit\Done_Scripts\CameraRotate.cs" />
-     <Compile Include="Assets\TaikrCSharpKit\Done_Scripts\Done_Ball.cs" />
-     <Compile Include="Assets\TaikrCSharpKit\Done_Scripts\Done_Cube.cs" />
-     <Compile Include="Assets\TaikrCSharpKit\Done_Scripts\Done_ObjectPool.cs" />
-     <Compile Include="Assets\TaikrCSharpKit\Done_Scripts\Done_PlayerController.cs" />
-     <Compile Include="Assets\TaikrCSharpKit\Done_Scripts\Done_Shooter.cs" />
-     <Compile Include="Assets\TaikrCSharpKit\Done_Scripts\Explosion.cs" />
-     <Compile Include="Assets\TaikrCSharpKit\Scripts\AutoExplode.cs" />
-     <Compile Include="Assets\TaikrCSharpKit\Scripts\Ball.cs" />
-     <Compile Include="Assets\TaikrCSharpKit\Scripts\Cube.cs" />
-     <Compile Include="Assets\TaikrCSharpKit\Scripts\Mover.cs" />
-     <Compile Include="Assets\TaikrCSharpKit\Scripts\ObjectPool.cs" />
-     <Compile Include="Assets\TaikrCSharpKit\Scripts\PlayerController.cs" />
-     <Compile Include="Assets\TaikrCSharpKit\Scripts\Rotater.cs" />
-     <Compile Include="Assets\TaikrCSharpKit\Scripts\Shooter.cs" />
+     <Compile Include="Assets\Done\Done_Scripts\CameraRotate.cs" />
+     <Compile Include="Assets\Done\Done_Scripts\Done_Ball.cs" />
+     <Compile Include="Assets\Done\Done_Scripts\Done_Cube.cs" />
+     <Compile Include="Assets\Done\Done_Scripts\Done_ObjectPool.cs" />
+     <Compile Include="Assets\Done\Done_Scripts\Done_PlayerController.cs" />
+     <Compile Include="Assets\Done\Done_Scripts\Done_Shooter.cs" />
+     <Compile Include="Assets\Done\Done_Scripts\Explosion.cs" />
+     <Compile Include="Assets\Done\Scripts\Ball.cs" />
+     <Compile Include="Assets\Done\Scripts\ObjectPool.cs" />
+     <Compile Include="Assets\Done\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Done\Scripts\Shooter.cs" />
+     <Compile Include="Assets\Scripts\LearnThinkInComponent\AutoExplodeC.cs" />
+     <Compile Include="Assets\Scripts\LearnThinkInComponent\CubeController.cs" />
+     <Compile Include="Assets\Scripts\LearnThinkInComponent\MoveC.cs" />
+     <Compile Include="Assets\Scripts\LearnThinkInComponent\RotateC.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
